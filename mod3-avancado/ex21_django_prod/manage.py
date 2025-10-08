@@ -1,0 +1,1 @@
+print("Simulação de Django para produção")

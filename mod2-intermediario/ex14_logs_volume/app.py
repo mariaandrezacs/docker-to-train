@@ -1,0 +1,1 @@
+open("/var/logs/app/log.txt","a").write("Log de execução\n")
