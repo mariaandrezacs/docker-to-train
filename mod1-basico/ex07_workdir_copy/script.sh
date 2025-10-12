@@ -1,1 +1,1 @@
-echo "Trabalhando no diretório /usr/src/app"
+﻿#!/bin/bashecho "Trabalhando no diretório /usr/src/app"
