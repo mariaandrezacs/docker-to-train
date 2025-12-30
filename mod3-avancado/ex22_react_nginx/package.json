@@ -1,1 +1,6 @@
-{ "name": "react-app", "scripts": {"build": "echo Build React"}}
+{
+  "name": "react-app",
+  "scripts": {
+    "build": "echo Build React"
+  }
+}
